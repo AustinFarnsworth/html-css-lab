@@ -1,0 +1,28 @@
+body {
+  background-color: rgb(197, 197, 197);
+  margin: 0%;
+}
+
+header {
+  background-color: rgb(49, 49, 49);
+  height: 70px;
+  width: 100vw;
+  margin: 0;
+  padding: 0;
+}
+
+footer {
+  height: 70px;
+  background-color: black;
+  position: fixed;
+  left: 25%;
+  bottom: 0;
+  width: 55%;
+}
+
+.section {
+  background-color: white;
+  height: 650px;
+  width: 55%;
+  margin-left: 25%;
+}

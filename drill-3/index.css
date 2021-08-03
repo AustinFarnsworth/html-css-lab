@@ -1,0 +1,41 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: rgb(192, 189, 189);
+  height: 125px;
+}
+
+.blue-box {
+  height: 90px;
+  width: 90px;
+  background-color: rgb(43, 113, 243);
+  display: inline-block;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+.main-section {
+  margin: 50px;
+}
+
+.blue-section {
+  height: 125px;
+  background-color: rgb(16, 119, 204);
+}
+
+.lightgreen-section {
+  height: 125px;
+  background-color: rgb(9, 212, 185);
+}
+
+.darkgreen-section {
+  height: 125px;
+  background-color: rgb(88, 175, 1);
+}
+
+.yellow-section {
+  height: 125px;
+  background-color: rgb(209, 209, 4);
+}
